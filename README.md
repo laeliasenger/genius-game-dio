@@ -5,5 +5,5 @@ Alterações feitas em relação ao projeto original: Inserção de um contador 
 
 
 
-![screenshot](C:\Users\Azevedo\Documents\Bootcamp_Javascript_game_developer\genius-game\screenshot.png)
+![screenshot.png (1354×633) (raw.githubusercontent.com)](https://raw.githubusercontent.com/laeliasenger/genius-game-dio/master/screenshot.png)
 
