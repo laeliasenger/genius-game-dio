@@ -5,5 +5,5 @@ Alterações feitas em relação ao projeto original: Inserção de um contador 
 
 
 
-![Captura de Tela (83)](C:\Users\Azevedo\Pictures\cripto\Screenshots\Captura de Tela (83).png)
+![screenshot](C:\Users\Azevedo\Documents\Bootcamp_Javascript_game_developer\genius-game\screenshot.png)
 
