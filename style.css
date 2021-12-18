@@ -1,0 +1,65 @@
+@font-face {
+    font-family: beckman;
+    src: url(.fonts/Beckman-Free.otf);
+}
+
+body {
+    margin: 0;
+    background-color: rgba(62, 65, 64, 0.199);
+}
+
+.main-game {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.genius {
+    display: grid;
+    grid-template-areas: 'verde vermelho'
+    'amarelo azul';
+    grid-gap: 8px;
+    border: 1px solid #ffffff00;
+    background-color: #ffffff00;
+    border-radius: 100%;
+    width: 600px;
+    height: 600px;
+    margin-top: 20px;
+}
+
+.blue {
+    grid-area: azul;
+    background-color: rgb(5, 90, 201);
+    border-bottom-right-radius: 100%
+}
+
+.red {
+    grid-area: vermelho;
+    background-color: rgb(207, 37, 37);
+    border-top-right-radius: 100%
+} 
+
+.yellow {
+    grid-area: amarelo;
+    background-color: rgb(255, 255, 4);
+    border-bottom-left-radius: 100%
+} 
+
+.green {
+    grid-area: verde;
+    background-color: rgb(4, 199, 4);
+    border-top-left-radius: 100%
+} 
+
+.selected {
+    opacity: 0.4;
+}
+
+.scoreboard {
+    margin: 10px;
+    font-size: 30px;
+    font-family: beckman, sans-serif;
+    display: flex;
+    float: left;
+    color: rgba(0, 0, 0, 0.849);
+}
